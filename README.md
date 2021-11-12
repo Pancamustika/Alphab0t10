@@ -1,3 +1,10 @@
+##DEPLOY
+
+<p><a href="https://heroku.com/deploy?template=https://github.com/Pancamustika/Alphab0t10"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+
+
+
+
 # ```SELF-BOT```
 <p align="center">
 <a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
